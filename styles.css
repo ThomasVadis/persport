@@ -4,3 +4,12 @@
   font-weight: 400;
 
 }
+
+#portfolio {
+  padding-top: 70px;
+}
+
+.card-img-top {
+  height: 30%;
+  object-fit: cover;
+}
