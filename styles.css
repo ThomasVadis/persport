@@ -12,6 +12,9 @@
   padding-top: 70px;
 }
 
+.page-section{
+  padding: 15px;
+}
 
 
 .aspectRatioBox {
@@ -19,7 +22,29 @@
   background-size: cover;
   background-position: center;
 }
+.text-link, .text-link:focus, .text-link:hover{
+  color: #222;
+  font-weight: inherit;
+  font-size: 40px;
+  line-height: 1.15;
+  font-weight: 500;
+
+}
+.section-title{
+  text-transform: uppercase;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
 
 #about {
   background-color:cornflowerblue;
+}
+
+.footer {
+  background-color: slategray;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+
 }
